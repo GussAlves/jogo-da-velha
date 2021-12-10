@@ -4,6 +4,6 @@ let tabuleiro = new Tabuleiro()
 
 tabuleiro.exibirTabuleiro()
 
-tabuleiro.alterarLinha('x', 1, 5)
+tabuleiro.alterarLinha('x', 1, 2)
 
 console.log(tabuleiro.exibirTabuleiro())
