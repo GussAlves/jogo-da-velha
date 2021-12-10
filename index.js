@@ -6,4 +6,4 @@ tabuleiro.exibirTabuleiro()
 
 tabuleiro.alterarLinha('x', 1, 5)
 
-tabuleiro.exibirTabuleiro()
+console.log(tabuleiro.exibirTabuleiro())
